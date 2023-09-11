@@ -165,7 +165,7 @@ curl -X DELETE https://example.com/api/1
 
 To set up and run the API locally, follow these steps:
 
-1. Clone the GitHub repository: `git clone `
+1. Clone the GitHub repository: `git clone https://github.com/Abiorh001/hng_zuri_backend_stage_two.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Create and apply database migrations: `python manage.py makemigrations` and `python manage.py migrate`
 4. Run the development server: `python manage.py runserver`
